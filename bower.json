@@ -19,8 +19,7 @@
     "package.json"
   ],
   "dependencies": {
-    "angular": "^1.2.x",
-    "rangy": "^1.2.0"
+    "angular": "^1.2.x"
   },
   "devDependencies": {
     "angular-mocks": "~1.2.x",
